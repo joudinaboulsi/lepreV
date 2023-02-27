@@ -1,0 +1,47 @@
+
+
+.action_button
+{
+	font-size: 15px;
+	color: white; 
+	padding:10px; 
+	border-radius: 5px; 
+	border: 1px transparent solid; 
+	width: 100%;
+	background: #006eff;
+}
+
+.secondary_button
+{
+	font-size: 15px;
+	color: white; 
+	padding:10px; 
+	border-radius: 5px; 
+	border: 1px transparent solid; 
+	width: 100%;
+	background: #c1c6ce;
+}
+
+.users_inputs
+{
+	padding-top: 20px; 
+	padding-bottom: 20px; 
+	font-size: 14px;
+}
+
+.signup_title
+{
+	font-weight: bold; 
+	font-size: 15px;
+}
+
+.signup_description
+{
+	text-align: left; 
+	font-size: 13px;
+}
+
+.signup_background
+{
+    box-shadow: 0 0 15px 0 rgba(40, 40, 40, 0.15);
+}
